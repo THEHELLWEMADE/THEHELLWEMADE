@@ -1,1 +1,3 @@
-<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/75bed5b1085b57673d4a57c6563c674ace8d8838/460%20sin%20t%C3%ADtulo_20260805093802_edit_347771912896500.png" width="900"/> 
+<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/8a240ac9cf0304ca706e398366b3bbe5adda6ee3/460%20sin%20t%C3%ADtulo_20260805100835_edit_348305285678692.png" width="900"/> 
+
+
