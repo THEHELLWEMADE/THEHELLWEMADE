@@ -5,7 +5,7 @@
 
 
 <p align="center"> <a href="https://timeless.atabook.org/">
-  <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/51a41af8dcec2ebb760918c3c1b6f3681f6ebc0a/465%20sin%20t%C3%ADtulo_0000-31-05_20260819153924.pngg" width="400">
+  <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/51a41af8dcec2ebb760918c3c1b6f3681f6ebc0a/465%20sin%20t%C3%ADtulo_0000-31-05_20260819153924.png" width="400">
 
 
 <p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/aab899fef70c89c640b70c91bb205374b8918125/460%20sin%20t%C3%ADtulo_20260805103841_edit_349877287781582.png" width="900"/> 
