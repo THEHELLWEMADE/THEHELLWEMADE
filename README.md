@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/e5f0d8b042eb86a9d630b763d91d39306df7cced/465%20sin%20t%C3%ADtulo_20260819152925.png" width="900"/> 
+<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/a8f2c988b7356834504f9f11e236a02d70c4dc94/462%20sin%20t%C3%ADtulo_20260819152041.png" width="900"/> 
 
 
 <p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/82604ef5240303e6a106cd56b9774e5948374826/460%20sin%20t%C3%ADtulo_20260805101722_edit_348619825971801.png" width="300"/> 
@@ -15,4 +15,4 @@
   <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/5dfde2e98ed210889b39caf2b3091fb6871884dc/460%20sin%20t%C3%ADtulo_20260805100020.png" width="400">
 
 
-<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/e5f0d8b042eb86a9d630b763d91d39306df7cced/465%20sin%20t%C3%ADtulo_20260819152925.png" width="900"/> 
+<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/a8f2c988b7356834504f9f11e236a02d70c4dc94/462%20sin%20t%C3%ADtulo_20260819152041.png" width="900"/> 
