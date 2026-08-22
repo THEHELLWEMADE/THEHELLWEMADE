@@ -8,7 +8,7 @@
   <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/f7d9ef5ee48f7b748e08795727807008fa12730e/475%20sin%20t%C3%ADtulo_20260822132926_edit_250169557323264.png" width="400">
 
 
-<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/74795e7365b0f35895d33de62359c1e73426b46d/460%20sin%20t%C3%ADtulo_20260819152152_edit_61293301893544.png" width="900"/> 
+<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/f9536ed7c852644d4d7f9f89177bf56d46f870e4/462%20sin%20t%C3%ADtulo_20260822133630_edit_250132072057133.png" width="900"/> 
 
 
 <p align="left"> <a href="https://github.com/TIMELESSROT">
