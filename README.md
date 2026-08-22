@@ -12,7 +12,7 @@
 
 
 <p align="left"> <a href="https://github.com/TIMELESSROT">
-  <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/74795e7365b0f35895d33de62359c1e73426b46d/465%20sin%20t%C3%ADtulo_20260819153739.png" width="400">
+  <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/96297d5dc25ec88c9746c8f32ec716527037ea26/475%20sin%20t%C3%ADtulo_20260822132954_edit_250156085443322.png" width="400">
 
 
 <p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/7008a2c8b761581eeba000e64dc92181b9844eb7/462%20sin%20t%C3%ADtulo_20260822133324_edit_250143846278951.png" width="900"/> 
