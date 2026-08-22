@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/7008a2c8b761581eeba000e64dc92181b9844eb7/462%20sin%20t%C3%ADtulo_20260822133324_edit_250143846278951.png" width="900"/> 
 
 
-<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/c55bd9431be88731afca5bbc5843cd43029509eb/460%20sin%20t%C3%ADtulo_20260819154756_edit_61443156485987.png" width="300"/> 
+<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/f694524362dc2e98188d85c421ebd0494315917e/462%20sin%20t%C3%ADtulo_20260822133720_edit_250118854120680.png" width="300"/> 
 
 
 <p align="center"> <a href="https://timeless.atabook.org/">
