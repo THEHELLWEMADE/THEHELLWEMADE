@@ -6,4 +6,4 @@
 
 
 <p align="left"> <a href="https://github.com/TIMELESSROT">
-  <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/5e4f07c5afa85828062a13b15eef0a0d2b1c660a/476%20sin%20t%C3%ADtulo_20260906191717_edit_710220201811258.png" width="400">
+  <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/4d3b2655c8be67640808ae416f94e383325991ca/476%20sin%20t%C3%ADtulo_20260906192437_edit_710242261465676.png" width="400">
