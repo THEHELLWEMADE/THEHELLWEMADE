@@ -1,5 +1,6 @@
 wip again ok
 
+<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/d021a70a283fcb31276fe7e860361a9b24e3ed79/493%20sin%20t%C3%ADtulo_20260907181615_edit_776079130334832.png" width="900"/> 
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xhjiviljliz5m2hy2uc5asqn7a&redirect=true">
