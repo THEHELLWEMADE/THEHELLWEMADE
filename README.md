@@ -13,6 +13,6 @@
 
 <a href="https://timeless.atabook.org/">
   <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/26591db3ecb8b4970d353658db598c8837287b86/492%20sin%20t%C3%ADtulo_20260908044156_edit_809241933129890.png" width="150"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/d013a155db325dcdb209326df68837b089917bc1/492%20sin%20t%C3%ADtulo_20260908045721_edit_809727863967308.png" width="230"> <a href="https://github.com/TIMELESSROT">
-  <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/2d9de52815befd514844ea8e3ad79317043afd8d/492%20sin%20t%C3%ADtulo_20260907085846.png" width="150">
+  <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/315d761fad78a69139ce1c1d231c205b71f5a730/492%20sin%20t%C3%ADtulo_20260908044150_edit_809229541343280.png" width="150">
 
   
