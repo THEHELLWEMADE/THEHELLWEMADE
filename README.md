@@ -9,6 +9,8 @@
 
 <p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/a26135478338a335db58ad806049648ec378a218/492%20sin%20t%C3%ADtulo_20260908044606_edit_809039329111322.png" width="900"/>
 
+<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/9b71bc5b5b55964b39e4085efa7869912cca19d4/492%20sin%20t%C3%ADtulo_20260908045328_edit_809482394773183.png" width="300"/> 
+
 <p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/0ffc8505e3d284817b9de879b1a02b2c5c7aec95/492%20sin%20t%C3%ADtulo_20260908050949_edit_810453955405990.png" width="900"/> 
 
 
