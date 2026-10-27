@@ -5,15 +5,6 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/0683cd2ee5fe4f7df16f50145c2243fdebe7779a/492%20sin%20t%C3%ADtulo_20260908044840_edit_809187819072567.png" width="900"/> 
-
-<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/a26135478338a335db58ad806049648ec378a218/492%20sin%20t%C3%ADtulo_20260908044606_edit_809039329111322.png" width="900"/>
-
-<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/9b71bc5b5b55964b39e4085efa7869912cca19d4/492%20sin%20t%C3%ADtulo_20260908045328_edit_809482394773183.png" width="300"/> 
-
-<p align="center"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/0ffc8505e3d284817b9de879b1a02b2c5c7aec95/492%20sin%20t%C3%ADtulo_20260908050949_edit_810453955405990.png" width="900"/> 
-
-
 
 <a href="https://timeless.atabook.org/">
   <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/26591db3ecb8b4970d353658db598c8837287b86/492%20sin%20t%C3%ADtulo_20260908044156_edit_809241933129890.png" width="150"> <img src="https://github.com/THEHELLWEMADE/THEHELLWEMADE/blob/d013a155db325dcdb209326df68837b089917bc1/492%20sin%20t%C3%ADtulo_20260908045721_edit_809727863967308.png" width="230"> <a href="https://pronouns.cc/@TIMELESSROT">
